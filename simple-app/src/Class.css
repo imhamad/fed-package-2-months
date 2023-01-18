@@ -1,0 +1,17 @@
+*,body{
+    background: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+.App-logo{
+    max-width: 10vw;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+.initiateClass{
+    margin: auto;
+    text-align: center;
+    display: block;
+    padding-top: 1rem;
+}
