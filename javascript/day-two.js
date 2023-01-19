@@ -31,3 +31,10 @@ document.addEventListener("dblclick",function (){
     let getConfirmation = confirm('are you sure to proceed');
     console.log(getConfirmation);
 });
+
+// Timeout function
+
+setTimeout(() =>{
+    console.log('yayyy')
+},3000);
+console.log("Bottom Script");
