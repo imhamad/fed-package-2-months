@@ -23,12 +23,12 @@ import './Class.css';
 //   );
 // }
 
-
+// Multiple Images based on multiple
 
 function App(){
   return (
       <div className="initiateClass">
-        Hello
+        FR Image & NL Image
       </div>
   );
 }
